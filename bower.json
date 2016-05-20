@@ -1,0 +1,24 @@
+{
+  "name": "ngdemo",
+  "description": "ngdemo ==============================",
+  "main": "app.js",
+  "authors": [
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular":"^1.5.5",
+    "angular-route": "^1.5.5",
+    "angular-ui-grid": "ui-grid#^3.1.1",
+    "angular-cookies": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
